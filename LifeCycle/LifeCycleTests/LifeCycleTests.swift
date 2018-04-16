@@ -1,11 +1,3 @@
-//
-//  LifeCycleTests.swift
-//  LifeCycleTests
-//
-//  Created by Subbareddy Lankapothu on 3/14/18.
-//  Copyright © 2018 Subba. All rights reserved.
-//
-
 import XCTest
 @testable import LifeCycle
 
