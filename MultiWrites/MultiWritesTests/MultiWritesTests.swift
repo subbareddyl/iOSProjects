@@ -1,11 +1,3 @@
-//
-//  MultiWritesTests.swift
-//  MultiWritesTests
-//
-//  Created by Subbareddy Lankapothu on 4/11/18.
-//  Copyright © 2018 Subba. All rights reserved.
-//
-
 import XCTest
 @testable import MultiWrites
 

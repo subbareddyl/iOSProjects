@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  MultiWrites
-//
-//  Created by Subbareddy Lankapothu on 4/11/18.
-//  Copyright © 2018 Subba. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -24,9 +16,7 @@ class ViewController: UIViewController {
             third.append("\(i+20)")
         }
         addAfter1Sec(first)
-        printAfter3Sec()
         addAfter1Sec(second)
-        printAfter3Sec()
         addAfter1Sec(third)
         printAfter3Sec()
         // Do any additional setup after loading the view, typically from a nib.
